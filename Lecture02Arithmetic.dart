@@ -14,9 +14,16 @@ int permeal = 500;
 int numberofpeople = 10;
 int amount = permeal * numberofpeople;
 
-print(amount);
+print("$amount \n");
 
 
+// for fast
+print("fasting missed");
+int totaldays = 30;
+int fast = 25;
+int missedfast = 30 - 25;
+
+print(missedfast);
 
 
 
