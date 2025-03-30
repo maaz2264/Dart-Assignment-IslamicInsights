@@ -23,7 +23,15 @@ int totaldays = 30;
 int fast = 25;
 int missedfast = 30 - 25;
 
-print(missedfast);
+print("$missedfast \n");
+
+//For  fidya 
+print("Fidya if i missed 10 fast");
+int fidyarate = 500; //for example
+
+
+int execute = fidyarate * 10;
+print(execute);
 
 
 
