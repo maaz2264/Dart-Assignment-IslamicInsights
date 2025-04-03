@@ -21,7 +21,7 @@ print("$amount \n");
 print("fasting missed");
 int totaldays = 30;
 int fast = 25;
-int missedfast = 30 - 25;
+int missedfast = totaldays - fast;
 
 print("$missedfast \n");
 

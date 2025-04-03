@@ -8,6 +8,4 @@ if(salah == 5){
 else if(salah < 5){
   print("oh you missed 1 salah.");
 }
-
-
 }
