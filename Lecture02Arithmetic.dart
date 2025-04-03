@@ -30,7 +30,7 @@ print("Fidya if i missed 10 fast");
 int fidyarate = 500; //for example
 
 
-int execute = fidyarate * 10;
+int execute = fidyarate * 10; //multiply by 10 is my missed fasts
 print(execute);
 
 
