@@ -1,5 +1,5 @@
 void main(){
-
+// switch case is similar ti if-else its also used to check the condition.
 var day = "mon"; 
 
 
