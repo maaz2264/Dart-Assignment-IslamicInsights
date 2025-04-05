@@ -1,12 +1,26 @@
+import 'dart:io';
 void main(){
 
-int salah = 5;
+int prayer = 5;
 
-if(salah == 5){
-  print("You prayed all 5 Salah today. ");
+if(prayer ==5){
+  print("Mssallah you prayed five namaz");
 }
-else if(salah < 5){
-  print("oh you missed 1 salah.");
+else{
+  print("you lost $prayer prayer");
 }
+
+
+
+
+
+
+
+
+var salah = "";
+
+print ("did you prayed 5 salah");
+salah = stdin.readLineSync() ?? "";
+print("massallah");
 
 }
